@@ -3,7 +3,7 @@
 `System.out.println("Hello, World!");`
 
 ## Intro
-Hi! My name is Trisha and I'm a second-year Computer Science major at [UCSD](https://ucsd.edu/). I chose to major in CS because I enjoyed the problem-solving aspect of it as well as the immediate satsifaction you get when your code compiles and works. In my free time I enjoy going to the beach, being active, and hanging out with friends and family! Here are some [photos](Photos).
+Hi! My name is Trisha and I'm a second-year Computer Science major at [UCSD](https://ucsd.edu/). I chose to major in CS because I enjoyed the problem-solving aspect of it as well as the immediate satsifaction you get when your code compiles and works. In my free time I enjoy going to the [beach](https://github.com/trishatong/cse-110/blob/73f7cf4d02032ed42941ed7e9147c256c48b0def/IMG-4176%20(1).jpg), being active, and hanging out with friends and family!
 
 ## Experience
 I've been exposed to a few programming languages:
