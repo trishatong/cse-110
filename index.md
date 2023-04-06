@@ -82,4 +82,4 @@ I am pursuing a degree in Computer Science as well as a minor in Business. Here 
 
 <!-- <img src="https://github.com/trishatong/cse-110/blob/73f7cf4d02032ed42941ed7e9147c256c48b0def/IMG-4176%20(1).jpg" width="200" height="300"><img src="https://github.com/trishatong/cse-110/blob/73f7cf4d02032ed42941ed7e9147c256c48b0def/IMG-2612.jpg" width="240" height="270"><img src="https://github.com/trishatong/cse-110/blob/73f7cf4d02032ed42941ed7e9147c256c48b0def/IMG-3406.JPG" width="300" height="200"><img src="https://github.com/trishatong/cse-110/blob/73f7cf4d02032ed42941ed7e9147c256c48b0def/IMG-8271.jpg" width="200" height="300">  -->
 
-<img src="https://cdn.mos.cms.futurecdn.net/wtqqnkYDYi2ifsWZVW2MT4-1200-80.jpg" width="200" height="300">
+<img src="https://raw.githubusercontent.com/trishatong/cse-110/main/IMG-4176%20(1).jpg" width="200" height="300">
