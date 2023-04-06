@@ -80,8 +80,6 @@ I am pursuing a degree in Computer Science as well as a minor in Business. Here 
 
 ## Photos
 
-<!-- <img src="https://github.com/trishatong/cse-110/blob/73f7cf4d02032ed42941ed7e9147c256c48b0def/IMG-4176%20(1).jpg" width="200" height="300"><img src="https://github.com/trishatong/cse-110/blob/73f7cf4d02032ed42941ed7e9147c256c48b0def/IMG-2612.jpg" width="240" height="270"><img src="https://github.com/trishatong/cse-110/blob/73f7cf4d02032ed42941ed7e9147c256c48b0def/IMG-3406.JPG" width="300" height="200"><img src="https://github.com/trishatong/cse-110/blob/73f7cf4d02032ed42941ed7e9147c256c48b0def/IMG-8271.jpg" width="200" height="300"> 
+<!-- <img src="https://github.com/trishatong/cse-110/blob/73f7cf4d02032ed42941ed7e9147c256c48b0def/IMG-4176%20(1).jpg" width="200" height="300"><img src="https://github.com/trishatong/cse-110/blob/73f7cf4d02032ed42941ed7e9147c256c48b0def/IMG-2612.jpg" width="240" height="270"><img src="https://github.com/trishatong/cse-110/blob/73f7cf4d02032ed42941ed7e9147c256c48b0def/IMG-3406.JPG" width="300" height="200"><img src="https://github.com/trishatong/cse-110/blob/73f7cf4d02032ed42941ed7e9147c256c48b0def/IMG-8271.jpg" width="200" height="300">  -->
 
-<img src="https://github.com/trishatong/cse-110/blob/73f7cf4d02032ed42941ed7e9147c256c48b0def/IMG-4176%20(1).jpg" alt="beach" style="height: 300px; width:200px;"/> -->
-
-![beach](https://www.google.com/url?sa=i&url=https%3A%2F%2Focean.si.edu%2Focean-life%2Fsharks-rays%2Fwhats-ocean-worthin-dollars&psig=AOvVaw36j3dtdcriR5zPUcGXlOol&ust=1680908620175000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNiZ-Nuulv4CFQAAAAAdAAAAABAD)
+<img src="https://cdn.mos.cms.futurecdn.net/wtqqnkYDYi2ifsWZVW2MT4-1200-80.jpg" width="200" height="300">
