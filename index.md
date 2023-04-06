@@ -81,5 +81,3 @@ I am pursuing a degree in Computer Science as well as a minor in Business. Here 
 ## Photos
           
 <img src="https://raw.githubusercontent.com/trishatong/cse-110/main/IMG-4176%20(1).jpg" width="200" height="300"><img src="https://raw.githubusercontent.com/trishatong/cse-110/main/IMG-2612.jpg" width="240" height="270"><img src="https://raw.githubusercontent.com/trishatong/cse-110/main/IMG-3406.JPG" width="300" height="200"><img src="https://raw.githubusercontent.com/trishatong/cse-110/main/IMG-8271.jpg" width="200" height="300">
-
-<img src="https://raw.githubusercontent.com/trishatong/cse-110/main/IMG-4176%20(1).jpg" width="200" height="300">
